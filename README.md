@@ -41,3 +41,6 @@ This Delegated Form uses the following resources in order to run
 
 ### Delegated form task 'google-group-create'
 This delegated form task will create the configured new Google group.
+
+# HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
