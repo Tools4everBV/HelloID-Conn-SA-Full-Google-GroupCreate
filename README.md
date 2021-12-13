@@ -1,11 +1,15 @@
-# HelloID-Conn-SA-Full-Google-GroupCreate
-
 <!-- Description -->
 ## Description
 This HelloID Service Automation Delegated Form provides Google group creation functionality. The following options are available:
  1. Enter group name, description and email address
  2. New Google group is created after confirmation
  
+## Versioning
+| Version | Description | Date |
+| - | - | - |
+| 1.0.1   | Added version number and updated all-in-one script | 2021/12/13  |
+| 1.0.0   | Initial release | 2020/12/05  |
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [Description](#description)
@@ -42,5 +46,8 @@ This Delegated Form uses the following resources in order to run
 ### Delegated form task 'google-group-create'
 This delegated form task will create the configured new Google group.
 
-# HelloID Docs
+## Getting help
+_If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/service-automation/647-helloid-sa-google-create-group)_
+
+## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
